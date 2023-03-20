@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.bg-container {
+  background-image: linear-gradient(#fff1eb, #ace0f9);
+  min-height: 100vh;
+  max-width: 100vw;
+}
+.app-items-container {
+  display: flex;
+  list-style-type: none;
+  max-width: 100%;
+}
+.tabs-container {
+  list-style-type: none;
+  display: flex;
+}

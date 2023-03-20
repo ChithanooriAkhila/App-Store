@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.app-item-container {
+  width: 30%;
+  margin-right: 30px;
+}
+.app-item-img {
+  height: 100px;
+  width: 100px;
+}
